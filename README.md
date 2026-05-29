@@ -1,6 +1,6 @@
 # hello-world
 
-A simple Python utillity for greeting users.
+A simple Python utility for greeting users.
 
 ## Usage
 
@@ -8,10 +8,10 @@ A simple Python utillity for greeting users.
 python greet.py --name Alice
 ```
 
-## Instalation
+## Installation
 
-No dependancies required. Just run with Python 3.
+No dependencies required. Just run with Python 3.
 
 ## Contributing
 
-Pull requests are wellcome!
+Pull requests are welcome!
